@@ -5,4 +5,4 @@ et de définir si oui ou non l'adresse de la boite partagée doit être visible
 dans le carnet d'adresse global 
 il prend en charge toutes les boites partagées du tenant
 la configuration est pour chaque boite
-Optimisé EXO V2
+Optimisé EXO V2 et MFA
